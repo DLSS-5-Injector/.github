@@ -6,7 +6,7 @@ Wrapper DLL injector designed to enable and configure **DLSS 5** features in com
 
 ## 🔗 Get the Latest Release
 
-- [📦 View All Releases]()
+- [📦 View All Releases](https://github.com/DLSS-5-Injector/.github/releases)
 
 ---
 
